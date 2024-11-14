@@ -1,4 +1,4 @@
-package ejercicio7;
+package ejercicio7; 
 
 public class Ejecutador {
 	public static void main(String[] args) {
